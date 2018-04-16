@@ -25,7 +25,7 @@
         "url": "http://datatables.net"
     },
     "dependencies": {
-        "datatables.net": "1.10.16"
+        "@arnoschn/datatables.net": "git+https://github.com/arnoschn/Dist-DataTables.git#4b7620e3ef21e867fba42baa5bac867b54c6a299"
     },
     "repository": {
         "type": "git",
